@@ -102,7 +102,6 @@ The following are prerequisites for Intune's Feature updates for Windows 10 and 
   - Pro
   - Enterprise
   - Education
-  - Education
   - Pro for Workstations
 
   > [!NOTE]
